@@ -34,11 +34,11 @@ namespace TestNumbers
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(542, 168);
+            this.button1.Location = new System.Drawing.Point(500, 42);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
-            this.button1.Text = "button13";
+            this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // Form1
